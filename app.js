@@ -1,0 +1,12 @@
+ScrollReveal().reveal('.hero-text-1');
+ScrollReveal().reveal('.hero-text-2', { delay: 100 });
+ScrollReveal().reveal('.gts-btn', { delay: 500 });
+ScrollReveal().reveal('.hero-img-phone', { delay: 550 });
+ScrollReveal().reveal('.hero-img-tablet', { delay: 550 });
+ScrollReveal().reveal('.hero-img-desktop', { delay: 580 });
+ScrollReveal().reveal('.intro-courses', { delay: 700 });
+ScrollReveal().reveal('.animation-course', { delay: 900 });
+ScrollReveal().reveal('.design-course', { delay: 1000 });
+ScrollReveal().reveal('.photography-course', { delay: 1100 });
+ScrollReveal().reveal('.crypto-course', { delay: 1300 });
+ScrollReveal().reveal('.business-course', { delay: 1400 });
